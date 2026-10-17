@@ -48,20 +48,19 @@ This **Interactive MS Excel Dashboard** provides a multi-tab analytics platform 
 ## Dashboard Preview
 
 ### 1. Executive Dashboard Overview
-![Dashboard Tab](Screenshot_1.png)
-<a href=""></a>
+<a href="https://github.com/owaiskhan2533/Interactive-Excel-Sales-Analytics-Dashboard/blob/main/Screenshot%202026-10-17%20203110.png">Dashboard Tab</a>
 
 ### 2. Product Performance Analysis
-![Product Tab](Screenshot_2.png)
-<a href=""></a>
+
+<a href="">Product Tab</a>
 
 ### 3. Sales Representative Analytics
-![Salesman Tab](Screenshot_3.png)
-<a href=""></a>
+
+<a href="">Salesman Tab</a>
 
 ### 4. About Page
-![About Tab](Screenshot_4.png)
-<a href=""></a>
+
+<a href="">About Tab</a>
 
 ---
 
