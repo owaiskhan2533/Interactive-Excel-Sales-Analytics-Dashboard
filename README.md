@@ -60,7 +60,7 @@ This **Interactive MS Excel Dashboard** provides a multi-tab analytics platform 
 
 ### 4. About Page
 
-<a href="">About Tab</a>
+<a href="https://github.com/owaiskhan2533/Interactive-Excel-Sales-Analytics-Dashboard/blob/main/Screenshot%202026-10-17%20203257.png">About Tab</a>
 
 ---
 
