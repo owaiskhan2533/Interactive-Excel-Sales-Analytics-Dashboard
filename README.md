@@ -52,7 +52,7 @@ This **Interactive MS Excel Dashboard** provides a multi-tab analytics platform 
 
 ### 2. Product Performance Analysis
 
-<a href="">Product Tab</a>
+<a href="https://github.com/owaiskhan2533/Interactive-Excel-Sales-Analytics-Dashboard/blob/main/Screenshot%202026-10-17%20203149.png">Product Tab</a>
 
 ### 3. Sales Representative Analytics
 
