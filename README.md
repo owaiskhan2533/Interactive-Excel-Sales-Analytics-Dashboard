@@ -68,10 +68,3 @@ This **Interactive MS Excel Dashboard** provides a multi-tab analytics platform 
 1. **Product Revenue Concentration:** **Printers** generate more than half of the total revenue (52.42%), making them the primary core product[cite: 13].
 2. **Geographic Strengths:** The **East** and **West** regions combined generate over 69% of overall revenue (₹12.43 Lakhs)[cite: 13].
 3. **Salesforce Productivity Gap:** High performers like **Siddhu** generate nearly 4.4x the revenue of bottom performers like **Chandu**, indicating a need for targeted sales coaching or territory reassignment[cite: 15].
-
----
-
-## 🚀 How to View
-1. Download the `.xlsx` file from this repository.
-2. Open it in **Microsoft Excel**.
-3. Use the left tab menu (`DASHBOARD`, `PRODUCT`, `SALESMAN`, `ABOUT`) to switch between views and interact with slicers[cite: 13, 14, 15, 16]!
