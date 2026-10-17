@@ -56,7 +56,7 @@ This **Interactive MS Excel Dashboard** provides a multi-tab analytics platform 
 
 ### 3. Sales Representative Analytics
 
-<a href="">Salesman Tab</a>
+<a href="https://github.com/owaiskhan2533/Interactive-Excel-Sales-Analytics-Dashboard/blob/main/Screenshot%202026-10-17%20203241.png">Salesman Tab</a>
 
 ### 4. About Page
 
